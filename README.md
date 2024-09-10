@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/6fa84dd4-becc-49bc-9b59-70348abb512f)
+
+
+
 - # *EX1_CIFAR*
 
 Классическое решение задачи CIFAR10 в двух вариантах, c использованием собственной архитектуры и предобученной модели ResNet50.
